@@ -1,0 +1,66 @@
+# Rules :
+
+# Strategie :
+
+?- Votre stratégie de gestion est basé sur :
+
+> analyse du marché 'pour determiner dans quel type du marché, vous exercerez vos activités'.
+> analyse de la concurence 'pour determiner où se trouvent les occasions d'affaires'.
+> analyse de force, faiblesses, possibilités, menaces de vos principaux concurrents.
+> analyse de force, faiblesses, possibilités, menaces de votre entreprise.
+> préparation d'un plan d'affaires efficace.
+
+
+# Marketing :
+
+?- Quelle est l'importance de marketing ? :
+
+> étudier le marché.
+> évaluer les besoins des clients.
+> trouver des niches de marché non comblées.
+> modeler le marketing du produit/service pour répondre au ces besoin.
+> connaisser les clients et les rejoindre.
+> placer le client au cœur de votre entreprise
+> travailler sur le E-marketing et le E-mailing
+> Un message accrocheur et logo et slogan attirent 
+
+
+# Finances :
+
+?- La gestion financière devrait :
+
+> connaitre le bilan de santé financiére.
+> miser sur une prévision réaliste des flux de trésorerie.
+> etudier les entreprise similire et adopter l'information qui les concerne à votre entreprise.
+> faire des bonus pour les clients fidéle.
+
+# Ressources humaines :
+
+?- le planificateur doit tenir aux considérations de :
+
+> accorder autant d'importance à la capacité d'embaucher.
+> accorder autant d'importance à l'adéquation entre les candidats retenus et les postes à pourvoir.
+> comprendre ce qui attire les travailleurs et leur offrir ce qu'ils recherchent.
+> traiter les employés comme des clients.
+> comprendre tout autant l'origine de leur comportement.
+
+
+# Technologie et Equipement :
+
+?- Pour votre entreprise, la technologie et l'équipement englobent :
+
+> seulment les équipments nécessaire à l'exploitation de l'entreprise.
+> en plus de la technologie de communication à fin de marketing et vent ou transport.
+> être tenu de faire preuve d'originalité en matière de gestion de la technologie et de l’équipement.
+> le planificateur doit cerner ses besoins et les équilibrer en fonction des exigences budgétaires.
+ 
+
+
+# Exploitation :
+
+?- Pour votre entreprise, l'exploitation est :
+
+> concerne uniquement l'équipment.
+> concerne l'equipment et les processus.
+> interesse à la création des produits/service et livraison aux clients.
+> concerne uniquement les personnels

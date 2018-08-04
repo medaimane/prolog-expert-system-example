@@ -1,0 +1,199 @@
+# 1° :
+# Si 
+	l-utilisateur choisi "Rien de tout cela" pour n'import quel domaine
+  Alors	
+ 	-> Résultat du domaine négatif : danger.
+ 	
+# 2° :
+  Si 
+	Stratégie basé sur l'analyse du marché.
+	l'importance du marketing est d'etudier le marché.
+	la gestion financière devrait etudier les entreprise similire et d'adopter l'information qui les concerne à votre entreprise.
+	le planificateur tenir aux considérations de comprendre ce qui attire les travailleurs et leur offrir ce qu'ils recherchent.
+	la technologie et l'équipement englobent en plus de la technologie de communication à fin de marketing ou transport.
+	l'exploitation est concerne l\'equipment et les processus.
+ Alors
+ 	-> gestion avec une bonne vision sur l'ambiance du marché.  
+
+# 3° :	
+# Si 
+	Stratégie basé sur l'analyse de la concurrence.
+	l'importance du marketing est de trouver des niches de marché non comblées.
+	la gestion financière devrait etudier les entreprise similire et d'adopter l'information qui les concerne à votre entreprise.
+	le planificateur tenir aux considérations d'accorder autant d'importance à l'adéquation entre les candidats retenus et les postes à pourvoir.
+	la technologie et l'équipement englobent d'être tenu de faire preuve d'originalité en matière de gestion de la technologie et de l’équipement
+	l'exploitation s'interesse à la création des produits/service et la  livraison aux clients.
+ Alors
+ 	-> Une bonne concurrence avec les autres entreprises
+	
+# 4° # :
+# Si 
+	Stratégie basé sur la préparation d'un plan d'affaires efficace.
+	l'importance du marketing est connaisser les clients et les rejoindre.
+	la gestion financière devrait connaitre le bilan de santé financiére.
+	le planificateur tenir aux considérations d'accorder autant d'importance à la capacité d'embaucher.
+	la technologie et l'équipement englobent Le planificateur doit cerner ses besoins et les équilibrer en fonction des exigences budgétaires.
+	l'exploitation est concerne l'equipment et les processus.
+ Alors
+ 	-> Une bonne vision sur le plan d'affaire 
+	
+# 5° :
+# Si 
+	Stratégie basé sur analyse de force, faiblesses, possibilités, menaces de votre entreprise.
+	l'importance du marketing est d'étudier le marché.
+	la gestion financière devrait connaitre le bilan de santé financiére.
+	le planificateur tenir aux considérations de accorder autant d'importance à la capacité d'embaucher.
+	la technologie et l'équipement englobent le planificateur doit cerner ses besoins et les équilibrer en fonction des exigences budgétaires.
+	l'exploitation est interesse à la création des produits/service et livraison aux clients.
+ Alors
+ 	-> Une bonne situation financiere de l'entreprise
+	
+# 6° :
+# Si 
+	Stratégie basé sur l'analyse de force, faiblesses, possibilités, menaces de votre entreprise.
+	l'importance du marketing est étudier le marché.
+	la gestion financière devrait miser sur une prévision réaliste des flux de trésorerie.
+	le planificateur tenir aux considérations de comprendre ce qui attire les travailleurs et leur offrir ce qu'ils recherchent.
+	la technologie et l'équipement englobent le planificateur doit cerner ses besoins et les équilibrer en fonction des exigences budgétaires.
+	l'exploitation est concerne l'equipment et les processus.
+ Alors 
+ 	-> Une bonne gestion des employés
+	
+# 7° :
+# Si 
+	Stratégie basé sur la préparation d'un plan d'affaires efficace.
+	l'importance de marketing est de travailler sur le E-marketing et le E-mailing
+	la gestion financière devrait etudier les entreprise similire et adopter l'information qui les concerne à votre entreprise. 
+	le planificateur tenir aux considérations de 'Rien de tout cela'
+	la technologie et l'équipement englobent en plus de la technologie de communication à fin de marketing et vent ou transport.
+	l'exploitation est s'interesse à la création des produits/service et livraison aux clients.
+ Alors 
+ 	-> Une bonne stratégie de marketing
+	
+# 8° :
+# Si 
+	Stratégie basé sur l'analyse de force, faiblesses, possibilités, menaces de vos principaux concurrents.
+	l'importance de marketing est évaluer les besoins des clients.
+	la gestion financière devrait d'etudier les entreprise similire et adopter l'information qui les concerne à votre entreprise.
+	le planificateur tenir aux considérations de comprendre ce qui attire les travailleurs et leur offrir ce qu'ils recherchent.
+	la technologie et l'équipement englobent être tenu de faire preuve d'originalité en matière de gestion de la technologie et de l’équipement.
+	l'exploitation est concerne l'equipment et les processus.
+ Alors 
+ 	-> Une bonne image pour l'entreprise
+	
+# 9° :
+# Si 
+	Stratégie basé sur l'analyse de la concurence
+	l'importance de marketing est évaluer les besoins des clients.
+	la gestion financière devrait de faire des bonus pour les clients fidéle.
+	le planificateur tenir aux considérations de "Rien de tout cela"
+	la technologie et l'équipement englobent en plus de la technologie de communication à fin de marketing et vent ou transport.
+	l'exploitation est s'interesse à la création des produits/service et livraison aux clients.
+ Alors 
+ 	-> Une bonne relation clientèle
+
+# 10° :
+# Si 
+	Stratégie basé sur l'analyse de force, faiblesses, possibilités, menaces de votre entreprise.
+	l'importance de marketing est "Rien de tout cela".
+	la gestion financière devrait connaitre le bilan de santé financiére.
+	le planificateur tenir aux considérations de "Rien de tout cela".
+	la technologie et l'équipement englobent d'être tenu de faire preuve d'originalité en matière de gestion de la technologie et de l’équipement.
+	l'exploitation est concerne uniquement les personnels.
+ Alors 
+ 	-> Une bonne collaboration entre les employés de l'entreprise
+	
+# 11° :
+# Si 
+	Stratégie basé sur l'analyse du marché
+	l'importance de marketing est un message accrocheur et logo et slogan attirent
+	l'exploiteur de votre entreprise est devrait de faire des bonus pour les clients fidéle.
+	le planificateur tenir aux considérations de accorder autant d'importance à l'adéquation entre les candidats retenus et les postes à pourvoir.
+	la technologie et l'équipement englobent le planificateur doit cerner ses besoins et les équilibrer en fonction des exigences budgétaires.
+	l'exploitation est interesse à la création des produits/service et livraison aux clients.
+ Alors 
+ 	-> Une bonne publicite pour l'entreprise
+ 	
+/#############################################################/
+# 12° :
+# Si 
+	Stratégie basé sur
+	le plus important pour votre marketing est
+	l'exploiteur de votre entreprise est devrait de
+	le planificateur tenir aux considérations de
+	la technologie et l'équipement englobent
+	l'exploitation est
+	
+# 13° :
+# Si 
+	Stratégie basé sur
+	le plus important pour votre marketing est
+	l'exploiteur de votre entreprise est devrait de
+	le planificateur tenir aux considérations de
+	la technologie et l'équipement englobent
+	l'exploitation est
+	
+# 14° :
+# Si 
+	Stratégie basé sur
+	le plus important pour votre marketing est
+	l'exploiteur de votre entreprise est devrait de
+	le planificateur tenir aux considérations de
+	la technologie et l'équipement englobent
+	l'exploitation est
+	
+# 15° :
+# Si 
+	Stratégie basé sur
+	le plus important pour votre marketing est
+	l'exploiteur de votre entreprise est devrait de
+	le planificateur tenir aux considérations de
+	la technologie et l'équipement englobent
+	l'exploitation est
+	
+	
+# 16° :
+# Si 
+	Stratégie basé sur
+	le plus important pour votre marketing est
+	l'exploiteur de votre entreprise est devrait de
+	le planificateur tenir aux considérations de
+	la technologie et l'équipement englobent
+	l'exploitation est
+	
+# 17° :
+# Si 
+	Stratégie basé sur
+	le plus important pour votre marketing est
+	l'exploiteur de votre entreprise est devrait de
+	le planificateur tenir aux considérations de
+	la technologie et l'équipement englobent
+	l'exploitation est
+	
+# 18° :
+# Si 
+	Stratégie basé sur
+	le plus important pour votre marketing est
+	l'exploiteur de votre entreprise est devrait de
+	le planificateur tenir aux considérations de
+	la technologie et l'équipement englobent
+	l'exploitation est
+	
+# 19° :
+# Si 
+	Stratégie basé sur
+	le plus important pour votre marketing est
+	l'exploiteur de votre entreprise est devrait de
+	le planificateur tenir aux considérations de
+	la technologie et l'équipement englobent
+	l'exploitation est
+	
+# 20° :
+# Si 
+	Stratégie basé sur
+	le plus important pour votre marketing est
+	l'exploiteur de votre entreprise est devrait de
+	le planificateur tenir aux considérations de
+	la technologie et l'équipement englobent
+	l'exploitation est
+	
