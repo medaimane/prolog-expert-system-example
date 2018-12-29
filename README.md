@@ -1,18 +1,23 @@
-# prolog-expert-system-example
-Expert system using prolog : Is my company well managed?
+# Prolog expert system example :
 
-# Tools
+### Description
+
+Expert system example using prolog that try to solve this problem :
+*Is my company well managed?*
+
+### Tools
 
 Prolog, Eclipse, Git, Linux
 
-# Author
+### Author
 
 Mohamed Aimane SKHAIRI
 
-# Contact 
+### Creators 
 
-skhairimedaimane@gmail.com
+  Mohamed Aimane Skhairi
+  skhairimedaimane@gmail.com
 
-# License
+### License
 
 GNU GPL v3.0.
